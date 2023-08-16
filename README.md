@@ -2,7 +2,11 @@
 
 Curso del Posgrado Conjunto CCM - UMSNH
 Semestre 2024-1
+## Abrir servidor
+https://lab.matmor.unam.mx:8443/hub/login
 
+## Usuario de Alnitak
+https://docs.google.com/spreadsheets/d/1Lg633gpV8KrUqTn34PDM8V0glAkTZpHcm4CViRRz1N0/edit#gid=1473209790
 
 ## Referencias
 
