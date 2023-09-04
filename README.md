@@ -17,5 +17,6 @@ https://docs.google.com/spreadsheets/d/1Lg633gpV8KrUqTn34PDM8V0glAkTZpHcm4CViRRz
 - [TDA for Pangenomics](https://paumayell.github.io/pangenomics/)
 - [Librerias en R para TDA](https://github.com/tdaverse/tdaverse)
 - [Lección de Pangenómica](https://paumayell.github.io/pangenomics/10-tda-handson/index.html)
+- [Video Diagramas de Voronoi, complejos de Delaunay y Alpha](https://youtu.be/-XCVn73p3xs?si=oN2zMrn3jGatYIFP)
 
 ---------
