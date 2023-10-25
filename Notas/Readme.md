@@ -6,3 +6,5 @@
 [Notas 05/09/23: Característica de Euler, Núm. de Betti](https://www.dropbox.com/scl/fi/5zt7t5wdlk9cgwx5rr41k/Notas-4.pdf?rlkey=kdmq19pr776zdcwwoqfelm7n5&dl=0)
 
 [Notas 06/09/23: Grupos de Homología](https://www.dropbox.com/scl/fi/gxqt1x8z26ugu9umnu1eg/notas5.pdf?rlkey=244avz6b57ehox5k0rs6smb9y&dl=0)
+
+[Notas 25/10/23: Ejemplos grupos de homología](https://www.dropbox.com/scl/fi/zfur1mhx8hjssh3kppb1w/Clase-241023.pdf?rlkey=flh5jrltyuj5z5e31k3qabfro&dl=0)
