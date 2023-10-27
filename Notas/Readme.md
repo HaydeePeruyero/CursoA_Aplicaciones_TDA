@@ -7,4 +7,6 @@
 
 [Notas 06/09/23: Grupos de Homología](https://www.dropbox.com/scl/fi/gxqt1x8z26ugu9umnu1eg/notas5.pdf?rlkey=244avz6b57ehox5k0rs6smb9y&dl=0)
 
-[Notas 25/10/23: Ejemplos grupos de homología](https://www.dropbox.com/scl/fi/zfur1mhx8hjssh3kppb1w/Clase-241023.pdf?rlkey=flh5jrltyuj5z5e31k3qabfro&dl=0)
+[Notas 24/10/23: Ejemplos grupos de homología](https://www.dropbox.com/scl/fi/zfur1mhx8hjssh3kppb1w/Clase-241023.pdf?rlkey=flh5jrltyuj5z5e31k3qabfro&dl=0)
+
+[Notas 25/10/23:Homología persistente y diagramas de persistencia](https://www.dropbox.com/scl/fi/cdx7i8inck5me2j1exh1u/Clase-25102023.pdf?rlkey=7pz7x5xj8whktlqebe8killbw&dl=0)
