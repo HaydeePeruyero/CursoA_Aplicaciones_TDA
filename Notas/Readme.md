@@ -10,3 +10,7 @@
 [Notas 24/10/23: Ejemplos grupos de homología](https://www.dropbox.com/scl/fi/zfur1mhx8hjssh3kppb1w/Clase-241023.pdf?rlkey=flh5jrltyuj5z5e31k3qabfro&dl=0)
 
 [Notas 25/10/23:Homología persistente y diagramas de persistencia](https://www.dropbox.com/scl/fi/cdx7i8inck5me2j1exh1u/Clase-25102023.pdf?rlkey=7pz7x5xj8whktlqebe8killbw&dl=0)
+
+[Algoritmo de Persistencia](https://www.dropbox.com/scl/fi/tb213ef1wfo4wvoppdxl4/Algoritmo-persistencia.pdf?rlkey=dx0hnc3f8vfp598xcomsejkjs&dl=0)
+
+[Morse-Reebs-Mapper](https://www.dropbox.com/scl/fi/tpdy0upi8qrmu74224zv5/Mapper-Morse-Reebs.pdf?rlkey=puwqxn4lg9bpgk90kivbpc3cv&dl=0)
